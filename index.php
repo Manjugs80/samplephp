@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "Viswa is teaching the AWS";
+echo "AWS is good";
 ?>
 
 </body>
