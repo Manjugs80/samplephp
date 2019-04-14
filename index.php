@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "AWS is too good";
+echo "Manjunath G";
 ?>
 
 </body>
