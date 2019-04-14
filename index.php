@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo "AWS is good";
+echo "AWS is too good";
 ?>
 
 </body>
